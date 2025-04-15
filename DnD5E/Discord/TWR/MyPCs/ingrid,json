@@ -1,0 +1,142 @@
+{
+  "name": "Ingrid Whiterun",
+  "race": "Human",
+  "class": "Rogue",
+  "level": 3,
+  "background": "Outlander",
+  "alignment": "Chaotic Neutral",
+  "age": 15,
+  "languages": ["Common", "Dwarvish", "Thieves' Cant"],
+  "abilities": {
+    "STR": 10,
+    "DEX": 14,
+    "CON": 13,
+    "INT": 13,
+    "WIS": 13,
+    "CHA": 14
+  },
+  "savingThrows": {
+    "DEX": 4,
+    "INT": 3
+  },
+  "skills": {
+    "Acrobatics": 6,
+    "Animal Handling": 1,
+    "Arcana": 1,
+    "Athletics": 2,
+    "Deception": 4,
+    "History": 1,
+    "Insight": 1,
+    "Intimidation": 2,
+    "Investigation": 1,
+    "Medicine": 1,
+    "Nature": 1,
+    "Perception": 5,
+    "Performance": 2,
+    "Persuasion": 4,
+    "Religion": 1,
+    "Sleight of Hand": 2,
+    "Stealth": 2,
+    "Survival": 3
+  },
+  "expertise": ["Acrobatics", "Perception"],
+  "proficiencies": [
+    "Acrobatics", "Athletics", "Deception", "Perception", "Persuasion", "Survival",
+    "Dexterity Saves", "Intelligence Saves", "Thieves' Tools", "Flute"
+  ],
+  "feat": "Mobile",
+  "AC": 13,
+  "HP": 21,
+  "HitDice": "3d8",
+  "Initiative": 4,
+  "passivePerception": 15,
+  "equipment": [
+    "Backpack",
+    "10x Days of Rations",
+    "1x Waterskin",
+    "1x Tinderbox",
+    "1x Hammer",
+    "2x Oil (Flask)",
+    "1x Hooded Lantern",
+    "10x Pitons",
+    "1x Animal Trophy",
+    "1x Crowbar",
+    "5x Candles",
+    "1000x Ball Bearings",
+    "10x String (Feet)",
+    "50x Hempen Rope (Feet)",
+    "1x Thieves' Tools",
+    "1x Traveler Clothes",
+    "1x Hunting Trap",
+    "1x Bell",
+    "1x Quarterstaff +1",
+    "1x Rapier",
+    "2x Daggers",
+    "1x Shortbow",
+    "1x Flute",
+    "10x Gold Pieces"
+  ],
+  "attacks": {
+    "Dagger": "+4 to hit, 1d4+2 piercing",
+    "Dagger (Throwing)": "+4 to hit, 1d4+2 piercing",
+    "Rapier": "+4 to hit, 1d8+2 piercing",
+    "Shortbow": "+4 to hit, 1d6+2 piercing",
+    "Unarmed Strike": "+2 to hit, 1 bludgeoning"
+  },
+  "actions": [
+    "Climb onto a Bigger Creature",
+    "Grapple",
+    "Shove",
+    "Shove Aside",
+    "Dash",
+    "Disengage",
+    "Dodge",
+    "Help",
+    "Hide",
+    "Sneak Attack",
+    "Disarm",
+    "Mark"
+  ],
+  "bonusActions": [
+    "Cunning Action",
+    "Dagger (Throwing, Two Weapon Fighting)",
+    "Dagger (Two Weapon Fighting)",
+    "Overrun",
+    "Steady Aim",
+    "Tumble"
+  ],
+  "traits": {
+    "personality": [
+      "Curious and Free-Spirited",
+      "Courageous and Brash"
+    ],
+    "ideals": [
+      "Freedom: “I fight for my freedom and my family. The wilds, the sea—they represent both my freedom and my duty to protect those I love.”",
+      "Adventure: “Every day is a chance for a new adventure, and I will never turn down a challenge if it leads me to the unknown.”"
+    ],
+    "bonds": [
+      "Family: “My sister and Astrid, they’re my family. I’ll do anything to protect them, even if I have to fight to the death.”",
+      "The Sea: “The sea has always been a part of me. I will never leave it behind, no matter where life takes me.”"
+    ],
+    "flaws": [
+      "Impulsive: “I sometimes jump into action without thinking, especially when my emotions get the best of me.”",
+      "Hot-Headed: “I don’t back down from a fight. If someone insults me or my family, it’s a problem.”"
+    ]
+  },
+  "description": {
+    "height": "5 feet",
+    "weight": "100 pounds",
+    "hair": "Long black hair",
+    "eyes": "Deep oceanic blue",
+    "charisma": "Entrancing smile, beautiful face"
+  },
+  "history": {
+    "origin": "Ruathym, Illuskan island",
+    "family": {
+      "father": "Blacksmith (deceased or missing)",
+      "mother": "Healer (deceased or missing)",
+      "siblings": ["Baldwin", "Elda"]
+    },
+    "backstory": "Ingrid, Baldwin, and Elda grew up in Ruathym. War between Earls destroyed their village. Baldwin and his friend Erick Redwing were conscripted. Erick died protecting Baldwin and asked him to care for his sister Astrid and Ingrid, whom he secretly loved. The sisters escaped the island, arriving on the Sword Coast, eventually traveling to Elysium under the care of Artemis. Baldwin, surviving a deadly voyage, has spent a year trying to reunite with them on the island. Ingrid, formerly Chaotic Good, shifted to Chaotic Neutral due to emotional trauma and the influence of unsavory figures. Promoted from NPC to PC, she is scheduled to reunite with her siblings in an upcoming session."
+  }
+}
